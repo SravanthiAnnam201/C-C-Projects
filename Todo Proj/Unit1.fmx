@@ -1,0 +1,47 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 330
+  ClientWidth = 359
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object AddButton: TButton
+    Position.X = 264.000000000000000000
+    Position.Y = 64.000000000000000000
+    TabOrder = 0
+    Text = 'ADD'
+    TextSettings.Trimming = None
+    OnClick = AddButtonClick
+  end
+  object Label1: TLabel
+    Position.X = 40.000000000000000000
+    Position.Y = 32.000000000000000000
+    TextSettings.Trimming = None
+    Text = 'ToDo list'
+    TabOrder = 1
+  end
+  object TodoListBox: TListBox
+    Position.X = 40.000000000000000000
+    Position.Y = 94.000000000000000000
+    TabOrder = 2
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    OnItemClick = TodoListBoxItemClick
+    Viewport.Width = 196.000000000000000000
+    Viewport.Height = 196.000000000000000000
+  end
+  object TodoEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    Position.X = 40.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 200.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+  end
+end

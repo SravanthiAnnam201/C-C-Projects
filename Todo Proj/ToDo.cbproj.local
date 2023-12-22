@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023-12-22 16:47:26.712,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-12-22 16:47:27.402,=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023-12-22 17:27:04.193,D:\C++ Projects\Todo Proj\Unit1.h=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023-12-22 17:27:04.193,D:\C++ Projects\Todo Proj\Unit1.fmx=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023-12-22 17:27:04.193,D:\C++ Projects\Todo Proj\Unit1.cpp=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023-12-22 17:27:04.256,D:\C++ Projects\Todo Proj\ToDoPCH1.h=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023-12-22 17:27:04.294,D:\C++ Projects\Todo Proj\ToDo.cbproj=C:\Users\Lenovo\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023-12-22 17:27:42.315,D:\C++ Projects\Todo Proj\ToDo.cbproj=D:\C++ Projects\Todo Proj\ToDo.cbproj</Transaction>
+    <Transaction>2023-12-22 17:27:52.128,D:\C++ Projects\Todo Proj\ToDo.cbproj=D:\C++ Projects\Todo Proj\ToDo.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
